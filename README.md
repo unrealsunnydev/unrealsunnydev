@@ -2,21 +2,21 @@
 
 ## About me
 
-Haxe programmer aspirant, with some dumb ideas and chill
+Haxe programmer aspirant, with some dumb ideas;
+Currently learning C# w/ Visual Studio;
+I like to make scripts, and modding stuff;
+I'm more active on Discord, check it out! `@unreal.sunnydev`
 
-Normally, I make scripts using PowerShell and Batch script, make some mods for games and *explore what's behind Windows system files*
+__**I lost my laptop recently so some projects are untouched, or rarely updated.**__
 
 ## Projects
-Current: An Sonic the Hedgehog Engine (unfinished)  
-Started: Sparrow/Starling Atlas Editor (unfinished)
+Current: [An Sonic the Hedgehog Engine](https://github.com/unrealsunnydev/ASTHE)
 
-## Languages  
-- Haxe;
-- PowerShell (Essential);
-- C# (~20%);
+## Programming Languages
+<p align="left"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" alt="Haxe"/><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" /><img width="30" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img width="30" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /><img width="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></p>
 
 ## OS
 
-I use Windows 11 26H2, thinking to install Linux Zorin OS (dual-boot).
+<p><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows 11"/><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian Linux" /></p>
 
 ## See ya!
