@@ -2,10 +2,10 @@
 
 ## About me
 
-Haxe programmer aspirant, with some dumb ideas;
-Currently learning C# w/ Visual Studio;
-I like to make scripts, and modding stuff;
-I'm more active on Discord, check it out! `@unreal.sunnydev`
+- Haxe programmer aspirant, with some dumb ideas;
+- Currently learning C# w/ Visual Studio;
+- I like to make scripts, and modding stuff;
+- I'm more active on Discord, check it out! `@unreal.sunnydev`
 
 __**I lost my laptop recently so some projects are untouched, or rarely updated.**__
 
