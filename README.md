@@ -1,5 +1,8 @@
 # Heya, I'm Sunnydev!
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=unrealsunnydev&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=unrealsunnydev&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=unrealsunnydev&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=unrealsunnydev&layout=donut&langs_count=4&theme=transparent)
+
 ## About me
 
 - Haxe programmer aspirant, with some dumb ideas;
